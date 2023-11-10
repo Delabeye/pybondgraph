@@ -1,7 +1,7 @@
 # pybondgraph
-A lightweight modelling and simulation library for multi-physics systems, based on bond graph theory. Compatible with nonlinear and symbolic relationships.
+A lightweight modelling and simulation toolbox for multi-physics systems, based on bond graph theory. Compatible with nonlinear and symbolic relationships.
 
-This library is based on `NetworkX` for modelling a system as a bond graph, `Sympy` for generating symbolic equations between variables (state-space and more), `Scipy` for simulation purposes and `PyVis` for graph visualisation.
+This toolbox is based on `NetworkX` for modelling a system as a bond graph, `Sympy` for generating symbolic equations between variables (state-space and more), `Scipy` for simulation purposes and `PyVis` for graph visualisation.
 
 ![fig_present_pybg](src/pybondgraph/_fig/fig_present_pybg.png)
 
